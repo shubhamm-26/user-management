@@ -35,6 +35,12 @@ The API exposes various endpoints to interact with user data:
 
 - **Platform:** Vercel
 - **Live URL:** https://user-management-phi-jade.vercel.app
+## Postman Collection
+
+You can view the Postman collection for this API [here](./app.postman_collection.json). 
+
+Click the link to explore the available API endpoints and test them in Postman.
+
 
 **## Getting Started:**
 
