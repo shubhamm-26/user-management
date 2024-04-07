@@ -29,12 +29,12 @@ The API exposes various endpoints to interact with user data:
 
 - **Express Framework:** Leverages the Express.js framework for efficient routing and request handling.
 - **Node.js Environment:** Runs within the Node.js runtime environment, enabling server-side JavaScript execution.
-- **Database Integration:** (Optional) For persistent data storage, integrate with a database of your choice (e.g., MongoDB, PostgreSQL) using appropriate connectors.
+- **Database Integration:** For persistent data storage, integrated with MongoDB.
 
 **## Deployment Information:**
 
 - **Platform:** Vercel
-- **Live URL:** [Insert Deployment URL here] (Replace with your actual deployment URL)
+- **Live URL:** https://user-management-phi-jade.vercel.app
 
 **## Getting Started:**
 
